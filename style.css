@@ -94,7 +94,7 @@ span {
         display: flex;
         flex-direction: row;
         width: 75vw;
-        max-width: 75vw;
+        max-width: 90vw;
         height: auto;
     }
 
